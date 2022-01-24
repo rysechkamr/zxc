@@ -1,9 +1,8 @@
-#block h1, #block h2, #block h3 {
+#block h1.eee, #block h2.zzz{
 	text-align: center;
+	font-size: 30px;
 }
-#block h2 {
-	color: blue;
+#block h2.zzz{
+		text-align: center;
+	font-size: 20px;
 }
-#block h3 {
-	font-size: 16px;
-	color: red;
