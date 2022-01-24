@@ -1,3 +1,12 @@
-#elem {background-color: lightblue;
+#elem {
+background-color: #4dee99;
 height:150px;
-width:150px;}
+width:200px;
+
+}
+#elem p {
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
