@@ -1,3 +1,17 @@
-main * p  {
+a:hover{
 	color: red;
+	text-decoration: none;
+}
+a:link{
+	color: blue;
+}
+a:visited{
+color: green;
+
+
+}
+a:active {
+color: black;
+
+	
 }
