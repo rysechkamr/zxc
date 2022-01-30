@@ -1,5 +1,5 @@
-#elem {	background-repeat: repeat-y;
+#elem {background-repeat: repeat-x;
 	background-image: url(bg.png);
-	width: 400px;
-	height: 1000px;
+	width: 1600px;
+	height: 400px;
 }
