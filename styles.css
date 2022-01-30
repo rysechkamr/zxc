@@ -1,2 +1,10 @@
-ol {list-style-type: upper-alpha;
+#parent {
+	width: 350px;
+	border: 1px dashed blue;
+}
+
+#child {
+	height: 250px;
+	border: 1px solid orange;
+	margin: 40px;
 }
