@@ -1,11 +1,11 @@
 #elem {
-	padding-top:    50px; /* сверху */
-	padding-right:  30px; /* справа */
-	padding-bottom: 50px; /* снизу */
+	padding-top:    10px; /* сверху */
+	padding-right:  15px; /* справа */
+	padding-bottom: 40px; /* снизу */
 	padding-left:   40px; /* слева */
 	
-	width: 190px;
-	height: 300px;
+	width: 300px;
+	height: 150px;
 	border: 1px solid red;
 	text-align: justify;
 }
