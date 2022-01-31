@@ -1,12 +1,11 @@
-#parent {
-	width: 200px;
+#elem {
+	padding-top:    50px; /* сверху */
+	padding-right:  30px; /* справа */
+	padding-bottom: 50px; /* снизу */
+	padding-left:   40px; /* слева */
+	
+	width: 190px;
+	height: 300px;
 	border: 1px solid red;
-}
-#child {
-	margin-top:    20px;
-	margin-right:  70px; 
-	margin-bottom: 20px; 
-	margin-left:   70px; 
-	height: 100px;
-	border: 1px solid green;
+	text-align: justify;
 }
