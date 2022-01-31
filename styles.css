@@ -1,11 +1,11 @@
 #parent {
 	width: 200px;
-	height: 100px;
+	height: 200px;
 	border: 1px solid orange;
 }
 #child {
 	height: 50px;
-	width: 110px;
+	width: 100px;
 	border: 1px dashed blue;
-	margin: 25px 44px;
+	margin: 120px 44px 20px;
 }
