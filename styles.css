@@ -1,6 +1,25 @@
-div {display: inline-block;
-	width: 100px;
-	height: 100px;
+.parent {
+	width: 500px;
+	height: 270px;
 	border: 1px solid red;
-	margin: 3px;
+}
+
+.child1 {
+	height: 70px;
+	width: 70px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
+
+.child2 {
+	height: 70px;
+	width: 140px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
+.child3 {
+	height: 70px;
+	width: 210px;
+	border: 1px solid green;
+	margin: 10px auto;
 }
