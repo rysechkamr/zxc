@@ -1,9 +1,5 @@
 #elem {
-	padding-top:    10px; /* сверху */
-	padding-right:  15px; /* справа */
-	padding-bottom: 40px; /* снизу */
-	padding-left:   40px; /* слева */
-	
+	padding: 50px 30px;
 	width: 300px;
 	height: 150px;
 	border: 1px solid red;
