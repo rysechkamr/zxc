@@ -1,6 +1,13 @@
 #elem {
+	width: 500px;
+	border: 1px solid green;
+	text-align: justify;
+	padding:20px;
+}
+#elem1 {
 	width: 300px;
 	border: 1px solid red;
 	text-align: justify;
-	padding:50px;
+	padding:20px;
+	margin: 35px;
 }
