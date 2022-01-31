@@ -1,9 +1,8 @@
-.parent {text-align: center;
+.parent {text-align: right;
 	padding: 10px 0;
 	border: 1px solid red;
 }
 .child {display: inline-block;
 	padding: 10px;
 	border: 1px solid green;
-	margin: 5px;
 }
