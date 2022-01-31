@@ -1,12 +1,9 @@
-#parent {
-	width: 200px;
+.parent {text-align: center;
+	padding: 10px 0;
 	border: 1px solid red;
 }
-#child {
-	margin-top:    20px;
-	margin-right:  70px; 
-	margin-bottom: 20px; 
-	margin-left:   70px; 
-	height: 100px;
+.child {display: inline-block;
+	padding: 10px;
 	border: 1px solid green;
+	margin: 5px;
 }
