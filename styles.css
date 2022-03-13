@@ -7,8 +7,7 @@
 	height: 400px;
 	margin: 20px auto;
 	border: 1px solid red;
-	justify-content: flex-end;
-
+	justify-content: space-between;
 }
 .child {
 	width: 120px;
