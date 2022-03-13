@@ -6,7 +6,7 @@ height: 350px;
 	text-align: justify;
 	display: flex;
 	flex-direction: row-reverse; 
-	justify-content: flex-start;
+	justify-content: flex-end;
 }
 .child {
 	width: 120px;
