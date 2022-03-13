@@ -16,7 +16,7 @@
 	width: 100px;
 	height: 100px;
 	background: #7e89eb;
-	z-index: 2;
+	z-index: 1;
 }
 #elem3 {
 	position: absolute;
@@ -26,5 +26,5 @@
 	width: 100px;
 	height: 100px;
 	background: #7eeb99;
-	z-index: 1;
+	z-index: 2;
 }
